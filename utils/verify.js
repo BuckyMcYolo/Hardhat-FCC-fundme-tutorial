@@ -17,3 +17,5 @@ const verify = async (contractAddress, args) => {
 };
 
 module.exports = { verify };
+
+let test1 = 0;
